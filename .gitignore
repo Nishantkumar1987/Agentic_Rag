@@ -1,0 +1,8 @@
+".secrets" 
+".venv/" 
+"__pycache__/" 
+"*.pyc" 
+.venv_rag_recom/ 
+__pycache__/ 
+__pycache__/ 
+.secrets/ 

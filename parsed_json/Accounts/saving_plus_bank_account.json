@@ -1,0 +1,270 @@
+{
+  "product_id": "saving_plus_bank_account",
+  "product_name": "saving plus bank account",
+  "product_line": "Account",
+  "documents": [
+    {
+      "file_name": "saving plus bank account.docx",
+      "source_type": "docx",
+      "parsed_at": "2025-11-20T17:41:56.276117",
+      "sections": [
+        {
+          "section_id": "d0570678-b087-49fb-ba5e-a50f550d7c70",
+          "title": "Features & Benefits",
+          "type": "Features & Benefits",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "dd4a456b-a910-482b-92b0-b0d700d103f9",
+          "title": "Period Of Deposit Is 1-5 Years",
+          "type": "Period Of Deposit Is 1-5 Years",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "63cbaeb1-0d2b-45b3-9786-f191cf36784f",
+          "title": "Atm Card",
+          "type": "Atm Card",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "48b0ab13-9867-4267-b187-363ecc02d43c",
+          "title": "State Bank Anywhere",
+          "type": "State Bank Anywhere",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "2338cba7-38b8-4bbc-9ae9-ea971be3d6bc",
+          "title": "Mobile Banking",
+          "type": "Mobile Banking",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "ee8d7645-b973-46bc-83e2-fa890adaf5ce",
+          "title": "Internet Banking",
+          "type": "Internet Banking",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "4d02c7d3-16d6-4445-a64f-50619f8eaf59",
+          "title": "Statements & Communication",
+          "type": "Statements & Communication",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "4bb7ca07-a7be-4297-8175-66810f1b9c36",
+          "title": "Loan Against Mod Deposits Available",
+          "type": "Loan Against Mod Deposits Available",
+          "text": "\nMinimum threshold limit for transfer to MOD -Rs. 50,000/-\nMinimum amount of transfer to MOD Rs.15,000/-and in multiples of Rs.5,000/- at one instance.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "2ea315dd-cdbb-4064-87f7-36593f2f933f",
+          "title": "Fees & Charges",
+          "type": "Fees & Charges",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "5772c206-d84d-46fa-a5fe-1b135802dd25",
+          "title": "Transfer Of Accounts Through Internet Banking",
+          "type": "Transfer Of Accounts Through Internet Banking",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "933b26e6-7340-4996-99a5-88323e82d172",
+          "title": "Limits",
+          "type": "Limits",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "d9a0ea3f-6e22-431c-bd0b-9e47f6d08d19",
+          "title": "Fees & Charges",
+          "type": "Fees & Charges",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "d230d061-09da-454b-adda-7cf2b59991c7",
+          "title": "Monthly Average Balance: Nil",
+          "type": "Monthly Average Balance: Nil",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "2ece4aae-11b6-4266-81cc-9f50294527e6",
+          "title": "Eligibility",
+          "type": "Eligibility",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "d3d8dc22-999d-40ba-9524-2a803ac54eaf",
+          "title": "KYC / Documentation",
+          "type": "KYC / Documentation",
+          "text": "\nIt may be Singly, jointly, or with Either or Survivor, Former or Survivor, Anyone or Survivor, etc.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "637f9f16-6151-46b3-b1b8-0e66044ea601",
+          "title": "Legal T&C",
+          "type": "Legal T&C",
+          "text": "\nMinimum threshold limit is Rs.50,000/-beyond which MOD will execute under Auto Sweep.\nMinimum Resultant Balance in SB (Post Auto Sweep) is Rs.35,000/-\nMinimum amount of TDR/STDR will be issued for Rs.15,000/- and in multiples of Rs.5000/- thereafter.\nReverse Sweep/Minimum withdrawal will happen in units of Rs.5,000/- and multiples thereof. When Outstanding balance in TDR /STDR reaches Rs.15,000/-, full amount reversal to SB account, irrespective of requirement.\nThe customer has to specify whether “First in First Out” (FIFO) or “Last in First out” (LIFO) principle should be applied for break opening of deposits. In the absence of any mandate the “Last in First out” (LIFO) principle will be applied.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "1f23797f-90ee-416c-8b27-e3a45a2a8423",
+          "title": "Transaction & Usage Rules",
+          "type": "Transaction & Usage Rules",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "f39530ab-98f9-4069-a2b4-b2e5fef54690",
+          "title": "KYC / Documentation",
+          "type": "KYC / Documentation",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "3178442d-e214-4592-8025-6896e58c71ce",
+          "title": "MITC",
+          "type": "MITC",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "40dd2c4f-26dd-47c2-9fc0-9e5301a077a2",
+          "title": "Fees & Charges",
+          "type": "Fees & Charges",
+          "text": "\nCheque book: First 10 leaves free per FY; thereafter ₹35 per 10 leaves + GST.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "614b6a43-f630-425c-be90-b2a2eb440dfe",
+          "title": "Instruments & Tools",
+          "type": "Instruments & Tools",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "b7a301db-3345-423c-982a-6bc1b7e0a9ff",
+          "title": "Transaction & Usage Rules",
+          "type": "Transaction & Usage Rules",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "32eb391c-2da2-48e2-a734-4ab0604642a5",
+          "title": "Duplicate Passbook: ₹50 Per Issue.",
+          "type": "Duplicate Passbook: ₹50 Per Issue.",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "d985c4ff-6ff2-4893-a0c1-478194ba8d2f",
+          "title": "Closure",
+          "type": "Closure",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "37698a55-f218-4855-b24c-049f677e96ed",
+          "title": "Interest / Pricing",
+          "type": "Interest / Pricing",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "831c5226-95fd-456c-b81e-b2d73daaea0f",
+          "title": "Interest / Pricing",
+          "type": "Interest / Pricing",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "28440b0a-6821-4cfb-ad5b-c564877f48db",
+          "title": "Interest / Pricing",
+          "type": "Interest / Pricing",
+          "text": "\nRates are subject to change as per Bank/RBI policy.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "0c38b213-1cae-40ae-87c2-99b27e89f387",
+          "title": "Eligibility Addendum",
+          "type": "Eligibility Addendum",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "84a9f9f5-4395-490b-86a0-8795a49b3831",
+          "title": "KYC / Documentation",
+          "type": "KYC / Documentation",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "a82dfdd0-1bb3-48d5-b54f-be38bcd56ed7",
+          "title": "Product Overview",
+          "type": "Product Overview",
+          "text": "",
+          "tables": [],
+          "status": "missing"
+        },
+        {
+          "section_id": "7aab7027-7d2a-4bfa-9019-57570bea53ee",
+          "title": "Dormancy / Inoperative / Surrender",
+          "type": "Dormancy / Inoperative / Surrender",
+          "text": "",
+          "tables": [],
+          "status": "missing"
+        },
+        {
+          "section_id": "ce844419-b827-4065-9ee9-a02ccb9cffb5",
+          "title": "Complaints & Grievances",
+          "type": "Complaints & Grievances",
+          "text": "",
+          "tables": [],
+          "status": "missing"
+        }
+      ]
+    }
+  ]
+}

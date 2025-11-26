@@ -1,0 +1,1 @@
+.\.venv_rag_recom\Scripts\activate.bat

@@ -1,0 +1,318 @@
+{
+  "product_id": "resident_foreign_currency_domestic_account",
+  "product_name": "Resident Foreign Currency Domestic Account",
+  "product_line": "Account",
+  "documents": [
+    {
+      "file_name": "Resident Foreign Currency Domestic Account.docx",
+      "source_type": "docx",
+      "parsed_at": "2025-11-20T17:41:56.177174",
+      "sections": [
+        {
+          "section_id": "23ec5ed6-33a9-413e-b6fe-5f49d0b6928b",
+          "title": "Features & Benefits",
+          "type": "Features & Benefits",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "0606a7f9-7a79-4b12-9a41-86a8b9b99b20",
+          "title": "Interest / Pricing",
+          "type": "Interest / Pricing",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "9ade1c79-2f1a-4904-9444-aadbdc258e96",
+          "title": "Instruments & Tools",
+          "type": "Instruments & Tools",
+          "text": "\nThe Minimum Balance required to be maintained is USD 500, GBP 250 and EURO 500.\nThe balance in the account is freely repatriable .",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "5bc7b01b-c79f-47e1-bc26-bb9eb57948cb",
+          "title": "Eligibility",
+          "type": "Eligibility",
+          "text": "\nA person singly or jointly along with a person resident in India can open RFC (D) account",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "122c9271-5223-4f8b-aab9-1f8347983e6f",
+          "title": "MITC",
+          "type": "MITC",
+          "text": "\nConversion of account balance:- As per RBI guidelines, the sum total of all the credits received in RFC (Domestic) account during a calendar month, less amount utilised, should be converted into Indian Rupees (crystallise) on or before the last working day of the succeeding calendar month after making adjustments for forward commitments.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "7170a4ac-476a-46e2-9713-8c1ec00daa7b",
+          "title": "Permissible Credits",
+          "type": "Permissible Credits",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "4f04648d-8685-41b9-a06e-028f261e213b",
+          "title": "If You Receive Foreign Currency As :",
+          "type": "If You Receive Foreign Currency As :",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "24683595-36b2-4b12-bf37-e095145070f9",
+          "title": "Payment While On A Visit Abroad For Services Not Arising Out From Any Business Or Anything Done In India.",
+          "type": "Payment While On A Visit Abroad For Services Not Arising Out From Any Business Or Anything Done In India.",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "f76aef3e-ee2b-49ea-a4b3-2f7fb7737ae3",
+          "title": "Honorarium Or Gift Or Payment For Services Rendered/ Settlement Of Any Lawful Obligation From Any Person Not Resident In India And Who Is On A Visit To India.",
+          "type": "Honorarium Or Gift Or Payment For Services Rendered/ Settlement Of Any Lawful Obligation From Any Person Not Resident In India And Who Is On A Visit To India.",
+          "text": "\nHonorarium or gift while on a visit to any place outside India.\nGift from a relative (subject to FEMA guidelines).\nForeign exchange acquired from an authorized person for travel abroad, if unspent.\nAmount received by the resident account holder as disinvestment proceeds on conversion of shares held by him to ADRs/ GDRs under the DR Scheme, 2014\nProceeds of life insurance policy claims/ maturity/ surrender values settled in foreign currency from an insurance company in India permitted to undertake life insurance business by the Insurance Regulatory and Development Authority.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "80011d36-0265-4638-83b6-daf33325233e",
+          "title": "Transaction & Usage Rules",
+          "type": "Transaction & Usage Rules",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "a8d693a8-11c1-4e6c-8e25-8cdce120af38",
+          "title": "Transaction & Usage Rules",
+          "type": "Transaction & Usage Rules",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "1132a168-f244-4af1-9147-ae15524e43be",
+          "title": "Transaction & Usage Rules",
+          "type": "Transaction & Usage Rules",
+          "text": "\nPrivate visits to any country (except Nepal and Bhutan)",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "bbf400c0-702a-44f5-8489-5e9b6e20ca9e",
+          "title": "Gift Or Donation",
+          "type": "Gift Or Donation",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "7ebfd42b-7e3f-42b9-87a4-34a24656be8b",
+          "title": "Going Abroad For Employment.",
+          "type": "Going Abroad For Employment.",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "47155e9e-881d-423a-a376-418b79dc740a",
+          "title": "Emigration",
+          "type": "Emigration",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "636b1cab-761d-424b-8f34-34aa9ec7dc35",
+          "title": "Maintenance Of Close Relatives Abroad.",
+          "type": "Maintenance Of Close Relatives Abroad.",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "87476614-0557-489a-8151-95e238afa57a",
+          "title": "Expenses In Connection With Medical Treatment Abroad",
+          "type": "Expenses In Connection With Medical Treatment Abroad",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "af99952b-44f1-4bd8-9ab1-33c8455a06e5",
+          "title": "Studies Abroad",
+          "type": "Studies Abroad",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "e4a0c22e-8dd6-4162-9e19-34139f858275",
+          "title": "Transaction & Usage Rules",
+          "type": "Transaction & Usage Rules",
+          "text": "\nTravel for business, or attending a conference or specialised training or for meeting expenses for meeting medical expenses, or check-up abroad, or for accompanying as attendant to a patient going abroad for medical treatment/ check-up.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "2b3df677-3a21-4679-8f8c-32f6b0aee432",
+          "title": "Transaction & Usage Rules",
+          "type": "Transaction & Usage Rules",
+          "text": "\nOpening of foreign currency account with a bank abroad",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "36150e81-5dcf-473c-9f8e-a1f99b19a2fa",
+          "title": "Purchase Of Property Abroad",
+          "type": "Purchase Of Property Abroad",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "1d50aedb-bbbe-4296-b955-85b1ae4b3456",
+          "title": "Instruments & Tools",
+          "type": "Instruments & Tools",
+          "text": "\nSetting up Wholly Owned Subsidiaries and Joint Ventures (with effect from August 05, 2013) outside India for bona fide business subject to the terms & conditions stipulated in notification no FEMA 263/RB-2013 dated March 5, 2013.\nExtending loans including loans in Indian Rupees to Non-resident Indians (NRIs) who are relatives as defined in Companies Act, 1956.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "ec326d41-2df3-41b1-9008-6b7d4fdcfe03",
+          "title": "Fees & Charges",
+          "type": "Fees & Charges",
+          "text": "\nCheque book: First 10 leaves free per FY; thereafter ₹50 per 10 leaves + GST.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "99bc9529-ac4d-40c9-823b-bb30cee4a3b9",
+          "title": "Instruments & Tools",
+          "type": "Instruments & Tools",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "f0186d4a-5964-4969-be45-7cf9acca9984",
+          "title": "Transaction & Usage Rules",
+          "type": "Transaction & Usage Rules",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "f544c7e0-51c9-4056-8d92-ad1ef5a68fa6",
+          "title": "Duplicate Passbook: ₹50 Per Issue.",
+          "type": "Duplicate Passbook: ₹50 Per Issue.",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "888f0aba-0c63-45d4-a697-4943d32f29af",
+          "title": "Closure",
+          "type": "Closure",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "0ab9da27-dc1a-418a-bc70-cc5ec34eca0e",
+          "title": "KYC / Documentation",
+          "type": "KYC / Documentation",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "59008a06-37da-4fd7-b684-03a7d75d74ce",
+          "title": "Interest / Pricing",
+          "type": "Interest / Pricing",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "ca23040c-cc35-4c7e-b7cb-2bdb4c43eb0c",
+          "title": "Interest / Pricing",
+          "type": "Interest / Pricing",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "b5f3d3d2-a012-46e9-9ae5-b3d046f646ab",
+          "title": "Interest / Pricing",
+          "type": "Interest / Pricing",
+          "text": "\nRates are subject to change as per Bank/RBI policy.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "8d68daca-b989-41d4-871d-4a088a53fcc5",
+          "title": "Eligibility Addendum",
+          "type": "Eligibility Addendum",
+          "text": "\nResidents may open singly/jointly in USD/GBP/EUR per FEMA/RBI rules.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "7cd01baa-f8b9-4815-9c24-0ca381157586",
+          "title": "Product Overview",
+          "type": "Product Overview",
+          "text": "",
+          "tables": [],
+          "status": "missing"
+        },
+        {
+          "section_id": "74cf3a87-d012-4f16-80b1-c2beb2652ebf",
+          "title": "Limits",
+          "type": "Limits",
+          "text": "",
+          "tables": [],
+          "status": "missing"
+        },
+        {
+          "section_id": "47aca8f9-5341-4d28-9751-6c3639c8e5dc",
+          "title": "Statements & Communication",
+          "type": "Statements & Communication",
+          "text": "",
+          "tables": [],
+          "status": "missing"
+        },
+        {
+          "section_id": "823b8b38-9f3e-4274-b94c-bbf099a03c81",
+          "title": "Dormancy / Inoperative / Surrender",
+          "type": "Dormancy / Inoperative / Surrender",
+          "text": "",
+          "tables": [],
+          "status": "missing"
+        },
+        {
+          "section_id": "437fa7d9-6843-4d5d-8986-e77097f8ffc0",
+          "title": "Complaints & Grievances",
+          "type": "Complaints & Grievances",
+          "text": "",
+          "tables": [],
+          "status": "missing"
+        },
+        {
+          "section_id": "a2668ff7-d1a2-48cc-8b07-6abff729a912",
+          "title": "Legal T&C",
+          "type": "Legal T&C",
+          "text": "",
+          "tables": [],
+          "status": "missing"
+        }
+      ]
+    }
+  ]
+}

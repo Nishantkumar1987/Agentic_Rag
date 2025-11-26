@@ -1,0 +1,286 @@
+{
+  "product_id": "saving_bank_account",
+  "product_name": "saving bank account",
+  "product_line": "Account",
+  "documents": [
+    {
+      "file_name": "saving bank account.docx",
+      "source_type": "docx",
+      "parsed_at": "2025-11-20T17:41:56.229143",
+      "sections": [
+        {
+          "section_id": "fa8a976d-299b-409b-a99f-a2130104356b",
+          "title": "Features & Benefits",
+          "type": "Features & Benefits",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "d86b6539-3f70-41fe-8862-e2e5e57bacf2",
+          "title": "Mobile Banking",
+          "type": "Mobile Banking",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "0b2e51af-213e-40d2-b358-22987f2103f5",
+          "title": "Statements & Communication",
+          "type": "Statements & Communication",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "409377b7-2f91-456d-af1d-447fc1622a97",
+          "title": "Inter-Net Banking",
+          "type": "Inter-Net Banking",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "d05745a2-ff8c-4363-8b72-8819f292fc54",
+          "title": "Yono",
+          "type": "Yono",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "448c1464-8068-447e-bf4f-4cfa345f7dd5",
+          "title": "State Bank Anywhere",
+          "type": "State Bank Anywhere",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "08b36342-f08f-4512-b931-896e88ed1cc4",
+          "title": "Sbi Quick Missed Call Facility.",
+          "type": "Sbi Quick Missed Call Facility.",
+          "text": "\nFirst 10 cheque leaves free in a financial year",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "9aca597c-94d5-43f0-bd53-df7009957914",
+          "title": "Thereafter:",
+          "type": "Thereafter:",
+          "text": "\n10 Leaf Cheque Book at Rs 40/-+GST\n25 Leaf Cheque Book at Rs 75/-+GST\nRestricted free withdrawals based on Monthly Average Balance maintained.\nThe facility of transfer of accounts through Internet Banking channel.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "4f19c5a9-9164-4692-a394-3498617d334c",
+          "title": "Nomination Facility Is Available",
+          "type": "Nomination Facility Is Available",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "3ebec5ee-928c-4eeb-b7d9-41b4eb0d9151",
+          "title": "Monthly Average Balance: Nil",
+          "type": "Monthly Average Balance: Nil",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "cfe1dc9f-24a0-491d-9943-930ad2dd19b5",
+          "title": "Limits",
+          "type": "Limits",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "44a0a8dd-d7c4-40ae-812e-3d6d9d42884c",
+          "title": "Fees & Charges",
+          "type": "Fees & Charges",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "dd469870-d0ae-4d5c-bf8a-f8849ef7b43b",
+          "title": "Statements & Communication",
+          "type": "Statements & Communication",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "1da560d6-4a38-4eab-b489-95b7b2771073",
+          "title": "Eligibility",
+          "type": "Eligibility",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "d88144d1-a5e6-475a-9598-23487b1698b1",
+          "title": "All Individuals/Central/State Govt Departments (If Eligible To Open Sb Accounts) Such As:",
+          "type": "All Individuals/Central/State Govt Departments (If Eligible To Open Sb Accounts) Such As:",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "79860acf-2eb4-4587-ac2e-b0600efffc1e",
+          "title": "Govt Depts. /Bodies/Agencies In Respect Of Grants, Subsidies Released For Implementation Of Various Programmes/Schemes Sponsored By Central Government/State Governments Subject To Production Of An Authorisation From The Respective Govt Depts To Open Savings Bank Account.",
+          "type": "Govt Depts. /Bodies/Agencies In Respect Of Grants, Subsidies Released For Implementation Of Various Programmes/Schemes Sponsored By Central Government/State Governments Subject To Production Of An Authorisation From The Respective Govt Depts To Open Savings Bank Account.",
+          "text": "\nDevelopment of Women and Children in Rural areas",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "3b3b8f1b-8178-4aa7-9144-b3b6242fe896",
+          "title": "Self-Help Groups, Etc.",
+          "type": "Self-Help Groups, Etc.",
+          "text": "\nMode of Operation : Single/Jointly/Either or survivor/ Former or survivor, Later or survivor, etc",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "f9c5706f-caa9-48fe-8ec0-766f86bf743c",
+          "title": "KYC / Documentation",
+          "type": "KYC / Documentation",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "f16193bb-5369-4e84-9121-89846a6678a5",
+          "title": "MITC",
+          "type": "MITC",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "7e773727-1e1d-48ce-acf8-71433f95f3a6",
+          "title": "Fees & Charges",
+          "type": "Fees & Charges",
+          "text": "\nCheque book: First 10 leaves free per FY; thereafter ₹40 per 10 leaves + GST.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "a57fe568-0a22-4fa5-b9a3-12263589d647",
+          "title": "Instruments & Tools",
+          "type": "Instruments & Tools",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "153d633e-c689-4edd-b9d7-f3d2cd8a031a",
+          "title": "Transaction & Usage Rules",
+          "type": "Transaction & Usage Rules",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "24c7abec-ebcf-45da-9ed5-7e90a4727169",
+          "title": "Duplicate Passbook: ₹50 Per Issue.",
+          "type": "Duplicate Passbook: ₹50 Per Issue.",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "ad840c61-d6dd-4c15-832e-25e9c44d80a1",
+          "title": "Closure",
+          "type": "Closure",
+          "text": "\nCheque book: First 10 leaves free per FY; thereafter ₹40 per 10 leaves + GST.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "7bc4789c-f140-4e54-a3ee-98b733e534cc",
+          "title": "Instruments & Tools",
+          "type": "Instruments & Tools",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "f1779b14-aeae-468d-aeb0-9cc33647c579",
+          "title": "Transaction & Usage Rules",
+          "type": "Transaction & Usage Rules",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "35b4dc6b-6c37-484a-8bb6-6086ea216cdc",
+          "title": "Interest / Pricing",
+          "type": "Interest / Pricing",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "2adbf235-ea1d-4199-a4c3-7166750de345",
+          "title": "Interest / Pricing",
+          "type": "Interest / Pricing",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "ea99c8db-cd39-4235-bace-a1b2cbe29d51",
+          "title": "Interest / Pricing",
+          "type": "Interest / Pricing",
+          "text": "\nRates are subject to change as per Bank/RBI policy.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "4c47e883-5be0-4a60-b427-479d2df8cf36",
+          "title": "Eligibility Addendum",
+          "type": "Eligibility Addendum",
+          "text": "\nIndividuals, Govt. departments, SHGs and eligible institutions as per RBI/SBI norms.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "99761bfb-28ff-49ea-8392-9c08d4c8e01e",
+          "title": "Product Overview",
+          "type": "Product Overview",
+          "text": "",
+          "tables": [],
+          "status": "missing"
+        },
+        {
+          "section_id": "64420a4d-fed7-4d21-a2fe-ea3786d5997d",
+          "title": "Dormancy / Inoperative / Surrender",
+          "type": "Dormancy / Inoperative / Surrender",
+          "text": "",
+          "tables": [],
+          "status": "missing"
+        },
+        {
+          "section_id": "8e50bc69-f39d-43a5-b4e9-a9ef07f03d44",
+          "title": "Complaints & Grievances",
+          "type": "Complaints & Grievances",
+          "text": "",
+          "tables": [],
+          "status": "missing"
+        },
+        {
+          "section_id": "f3e77923-d060-4f5d-9c93-343989d2f2e1",
+          "title": "Legal T&C",
+          "type": "Legal T&C",
+          "text": "",
+          "tables": [],
+          "status": "missing"
+        }
+      ]
+    }
+  ]
+}

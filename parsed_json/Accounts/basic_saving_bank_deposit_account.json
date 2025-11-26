@@ -1,0 +1,270 @@
+{
+  "product_id": "basic_saving_bank_deposit_account",
+  "product_name": "basic saving bank deposit account",
+  "product_line": "Account",
+  "documents": [
+    {
+      "file_name": "basic saving bank deposit account.docx",
+      "source_type": "docx",
+      "parsed_at": "2025-11-20T17:41:55.978286",
+      "sections": [
+        {
+          "section_id": "070df032-17e3-4604-a4ce-f552e6e07c3b",
+          "title": "Last Updated On : Wednesday, 09-02-2022",
+          "type": "Last Updated On : Wednesday, 09-02-2022",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "74756e45-269d-41f4-ab81-1db6c23a119a",
+          "title": "KYC / Documentation",
+          "type": "KYC / Documentation",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "0096a377-7fbc-4421-b696-16d31e135373",
+          "title": "Features & Benefits",
+          "type": "Features & Benefits",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "eecc6449-4963-4cd0-8e92-35bb5c34e3ef",
+          "title": "Available At All Branches",
+          "type": "Available At All Branches",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "e9135f57-96ba-47f0-bbf7-fdbc02baf8fb",
+          "title": "Minimum Balance Amount Nil",
+          "type": "Minimum Balance Amount Nil",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "7da5d97e-c755-4365-8ee2-b861aa6596f5",
+          "title": "Limits",
+          "type": "Limits",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "4dfaf800-5130-4ff6-8219-5c416794239b",
+          "title": "Instruments & Tools",
+          "type": "Instruments & Tools",
+          "text": "\nWithdrawals only using withdrawal form at Branches or through ATMs.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "0e533d50-5c00-427e-b0ec-ffe1a52698a9",
+          "title": "Instruments & Tools",
+          "type": "Instruments & Tools",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "f802ca7b-a17d-4733-97d9-760fc05f7683",
+          "title": "Eligibility",
+          "type": "Eligibility",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "05a2644c-3350-4104-a730-ba85ea1bd4c2",
+          "title": "KYC / Documentation",
+          "type": "KYC / Documentation",
+          "text": "\nSingly, jointly, or with Either or Survivor, Former or Survivor, anyone or Survivor etc. facility.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "f131d952-4139-45ca-abf3-783460ea043c",
+          "title": "KYC / Documentation",
+          "type": "KYC / Documentation",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "345bcf10-0b25-4542-a274-be678b1956a1",
+          "title": "KYC / Documentation",
+          "type": "KYC / Documentation",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "b8ade102-8bea-475b-8a40-e06138dab651",
+          "title": "MITC",
+          "type": "MITC",
+          "text": "\nThe Customer cannot have any other Savings Bank Account, if he/she has a Basic Savings Bank Deposit Account. If the customer already has a Savings Bank Account, the same will have to be closed within 30 days of opening a Basic Savings Bank Deposit Account.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "d45d50fe-3ea9-4135-9f5e-45c9e3726fd3",
+          "title": "Transaction & Usage Rules",
+          "type": "Transaction & Usage Rules",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "1ef29d3a-c207-410a-a0e3-73c6cd73b104",
+          "title": "Fees & Charges",
+          "type": "Fees & Charges",
+          "text": "\nBasic RuPay ATM-cum-Debit card will be issued free of cost and no annual maintenance charge will be applied.\nReceipt/ credit of money through electronic payment channels like NEFT/RTGS will be free\nDeposit/ collection of cheques drawn by Central/State Government will be free",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "84e914a8-aae1-448f-9f3a-4b158ee63c82",
+          "title": "Dormancy / Inoperative / Surrender",
+          "type": "Dormancy / Inoperative / Surrender",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "3f55a902-0a73-4610-bebb-1ea8524d8c92",
+          "title": "Fees & Charges",
+          "type": "Fees & Charges",
+          "text": "\nCheque book: First 10 leaves free per FY; thereafter ₹40 per 10 leaves + GST.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "3080552c-09d7-4346-b09d-548edc1f87e1",
+          "title": "Instruments & Tools",
+          "type": "Instruments & Tools",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "c17ca7f6-99b3-4df2-ac10-5c8710f1705a",
+          "title": "Transaction & Usage Rules",
+          "type": "Transaction & Usage Rules",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "fb8eebbc-8b86-428f-9a7c-e599fec914dd",
+          "title": "Duplicate Passbook: ₹50 Per Issue.",
+          "type": "Duplicate Passbook: ₹50 Per Issue.",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "31b008f4-8ac9-493f-b495-1fc4425da33d",
+          "title": "Closure",
+          "type": "Closure",
+          "text": "\nCheque book: First 10 leaves free per FY; thereafter ₹40 per 10 leaves + GST.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "6f1afb89-7cc1-4cf0-89c8-5d3816c9d46d",
+          "title": "Instruments & Tools",
+          "type": "Instruments & Tools",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "ab8392b0-fbb8-4d00-900e-9eca44a37e10",
+          "title": "Transaction & Usage Rules",
+          "type": "Transaction & Usage Rules",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "730b03ab-87dd-47c0-952e-8045bc6841ef",
+          "title": "MITC",
+          "type": "MITC",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "b6c8daa1-8de4-4ce4-9dd5-06dc629e1236",
+          "title": "Interest / Pricing",
+          "type": "Interest / Pricing",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "345779d9-038f-4637-8e87-4544d70840dd",
+          "title": "Interest / Pricing",
+          "type": "Interest / Pricing",
+          "text": "",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "6cf7127f-11d8-49d8-b9d3-cfc8eb0a0a46",
+          "title": "Interest / Pricing",
+          "type": "Interest / Pricing",
+          "text": "\nRates are subject to change as per Bank/RBI policy.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "2562e94e-3ee2-4217-b440-e4ef1883b22a",
+          "title": "Eligibility Addendum",
+          "type": "Eligibility Addendum",
+          "text": "\nMinors may open through a guardian; single or joint modes permitted.",
+          "tables": [],
+          "status": "present"
+        },
+        {
+          "section_id": "db38c852-a99b-40cc-aae6-e27d3e541e21",
+          "title": "Product Overview",
+          "type": "Product Overview",
+          "text": "",
+          "tables": [],
+          "status": "missing"
+        },
+        {
+          "section_id": "4ae1afba-79a5-49e4-b76f-f745a2540df6",
+          "title": "Statements & Communication",
+          "type": "Statements & Communication",
+          "text": "",
+          "tables": [],
+          "status": "missing"
+        },
+        {
+          "section_id": "bca4f09f-62e2-4681-9dec-491070e9cc8d",
+          "title": "Complaints & Grievances",
+          "type": "Complaints & Grievances",
+          "text": "",
+          "tables": [],
+          "status": "missing"
+        },
+        {
+          "section_id": "5e1ef416-7ffa-4086-8ae8-1b2cd6eee5a2",
+          "title": "Legal T&C",
+          "type": "Legal T&C",
+          "text": "",
+          "tables": [],
+          "status": "missing"
+        }
+      ]
+    }
+  ]
+}
