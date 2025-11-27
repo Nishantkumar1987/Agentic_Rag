@@ -1,8 +1,0 @@
-card_id,card_name,card_type,issuer,primary_network,tier,target_segment,co_brand_partner
-CC_001,Apollo SBI Card SELECT,co-brand_health,SBICPSL,Mastercard,premium,premium,Apollo Hospitals
-CC_002,Cashback SBI Card,cashback,SBICPSL,Visa,entry,retail,None
-CC_003,Flipkart SBI Card,co-brand_ecommerce,SBICPSL,Mastercard,mid-tier,retail,Flipkart
-CC_004,SBI Card PULSE,rewards_lifestyle,SBICPSL,Mastercard,entry,retail,None
-CC_005,IndiGo SBI Card,co-brand_travel,SBICPSL,Mastercard,premium,premium,IndiGo Airlines
-CC_006,Tata Neu Plus,co-brand_marketplace,SBICPSL,Mastercard,mid-tier,retail,Tata Neu
-CC_007,Tata Neu Infinity,co-brand_marketplace_premium,SBICPSL,Mastercard,premium,premium,Tata Neu
